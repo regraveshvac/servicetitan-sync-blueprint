@@ -864,4 +864,4 @@ Nobody has to go past milestone 2. Owning your data with a daily sync and your o
 
 ---
 
-*Written by **Ricky Graves — Graves Heating & Air, Southern Maryland**, from the system that runs my company. Share it freely with credit (CC BY 4.0 — see LICENSE). If it helped you, star the repo so other contractors can find it.*
+*Written by **Ricky Graves — Graves Heating & Air, Southern Maryland**, from the system that runs my company. Share it freely with credit (CC BY 4.0 — see LICENSE). If it helped you, star the repo so other contractors can find it — and if it saved you real money, you can [buy me a coffee](https://buymeacoffee.com/rickygraves).*

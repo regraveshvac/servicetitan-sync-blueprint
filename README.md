@@ -40,4 +40,4 @@ The blueprint takes over from there — one step at a time, in plain English, wa
 
 Written by **Ricky Graves, Graves Heating & Air** (Southern Maryland), from a system running a real business in production. Share it freely — the license just asks that you keep the credit: document text is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), code samples are MIT. See [LICENSE](LICENSE).
 
-If this helped you, star the repo so other contractors can find it.
+If this helped you, star the repo so other contractors can find it — and if it saved you real money, you can [buy me a coffee](https://buymeacoffee.com/rickygraves). ☕
